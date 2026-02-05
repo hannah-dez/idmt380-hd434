@@ -139,4 +139,8 @@ body.dyslexia-mode #dyslexia-toggle {
     background: var(--dark-bg);
     color: var(--dark-text);
   }
+  a {
+    color: var(--dark-text);
+    border: none;
+  }
 }
